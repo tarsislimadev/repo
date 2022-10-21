@@ -5,3 +5,5 @@
 ## How to
 
 ## License
+
+[MIT](./LICENSE)
