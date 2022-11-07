@@ -1,6 +1,4 @@
-# Repository
-
-Mínimo necessário para construção de projetos baseados em microserviços
+# Repository name
 
 ## Stack
 
